@@ -5,7 +5,7 @@ This is the project of eth beginner course in which we are creating a Token.
 ## Description
 In this project, we have created a smart contract for a token. The contract includes variables for the token name, abbreviation, and total supply. We have also implemented a balance mapping that maps addresses to their respective token balances. Additionally, we have created mint and burn functions. The mint function increases the total supply by a specified value and credits it to a given address, while the burn function decreases the total supply by a specified value and debits it from a given address, provided the address has sufficient balance.
 
-## Featurea
+## Features
 - Token Name and Abbreviation: Easily identifiable token with a name and abbreviation.
 - Total Supply Management: Tracks the total supply of the token.
 - Balance Mapping: Maps each address to uint.
