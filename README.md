@@ -12,14 +12,6 @@ In this project, we have created a smart contract for a token. The contract incl
 - Mint Function: Allows for the creation of new tokens and adding them to an address.
 - Burn Function: Allows for the destruction of tokens from an address, reducing the total supply.
 
-## Learning Outcomes
-- How to create a basic smart contract using Solidity.
-- How to declare and use state variables.
-- How to implement mapping for address balances.
-- How to write functions to modify state variables.
-- How to use Remix, an online Solidity IDE, for compiling and deploying smart contracts.
-
-
 ## Executing program
 To execute this program, we can use Remix, an online Solidity IDE. Follow these steps:
 
@@ -27,6 +19,14 @@ To execute this program, we can use Remix, an online Solidity IDE. Follow these 
 - Compile the smart contract.
 - Deploy the compiled contract.
 - Interact with the deployed contract using the Remix interface to mint and burn tokens.
+
+## Learning Outcomes
+- How to create a basic smart contract using Solidity.
+- How to declare and use state variables.
+- How to implement mapping for address balances.
+- How to write functions to modify state variables.
+- How to use Remix, an online Solidity IDE, for compiling and deploying smart contracts.
+
 
 ### Conclusion
 The smart contract, MyToken, includes key functionalities for token management, such as defining the token's name, abbreviation, and total supply. It also features a balance mapping for tracking token balances of addresses, and functions to mint and burn tokens.By completing this project, I have gained hands-on experience with:
