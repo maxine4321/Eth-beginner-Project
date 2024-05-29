@@ -25,7 +25,7 @@ To execute this program, we can use Remix, an online Solidity IDE. Follow these 
 
 - Visit the Remix website.
 - Compile the smart contract.
-- Deploy the compiled contract to a blockchain network (e.g., the Ethereum testnet).
+- Deploy the compiled contract.
 - Interact with the deployed contract using the Remix interface to mint and burn tokens.
 
 ### Conclusion
